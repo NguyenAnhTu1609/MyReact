@@ -2,7 +2,7 @@
 Bài tập môn React
 ## Lý thuyết 
 1. [câu 9](https://codepen.io/NguyenAnhTu1609/pen/mdKEwey)
-2. []
+2. [câu 10](https://codepen.io/NguyenAnhTu1609/pen/MWXeoaQ)
 3. [câu 11](https://codepen.io/NguyenAnhTu1609/pen/dyKXzjz)
 4. [câu 12](https://codepen.io/NguyenAnhTu1609/pen/yLEMZXQ)
 5. [câu 13](https://codepen.io/NguyenAnhTu1609/pen/OJEpdgx)
