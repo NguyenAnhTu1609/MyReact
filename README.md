@@ -11,3 +11,4 @@ Bài tập môn React
 8. [câu 16](https://codepen.io/NguyenAnhTu1609/pen/bGKYOVv)
 9. [câu 17](https://codepen.io/NguyenAnhTu1609/pen/KKeybdG)
 ## Thực hành 
+1. (https://codepen.io/NguyenAnhTu1609/pen/MWXPqLy)
