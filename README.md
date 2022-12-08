@@ -12,3 +12,4 @@ Bài tập môn React
 9. [câu 17](https://codepen.io/NguyenAnhTu1609/pen/KKeybdG)
 ## Thực hành 
 thuc hanh 1 (https://codepen.io/NguyenAnhTu1609/pen/MWXPqLy)
+            (https://codesandbox.io/s/jovial-gauss-cmswql)
